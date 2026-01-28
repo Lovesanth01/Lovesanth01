@@ -80,7 +80,7 @@ Most repositories reflect how I approach real-world engineering: **clean, docume
 ## 📫 Contact
 
 The best way to reach me is via **LinkedIn**:  
-👉 [https://www.linkedin.com/in/lovesanth-lingkeswaran/]
+👉 [(https://www.linkedin.com/in/lovesanth-lingkeswaran/)]
 
 ---
 
