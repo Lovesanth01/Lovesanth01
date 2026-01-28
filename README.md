@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Lovesanth
+# 👋 Hi, I’m [Your Name]
 
 I’m a **Cloud Infrastructure Engineer** working within **Data Engineering** at a **London-based bank**.  
 I specialise in building **secure, scalable cloud platforms** and **automated CI/CD pipelines** that enable data teams to deliver reliably in highly regulated environments.
@@ -21,6 +21,15 @@ A significant part of my role involves working in **globally distributed teams**
 - 🇮🇳 **India**
 
 This has strengthened my experience in **cross-time-zone delivery**, clear technical communication, and operating effectively in large, international engineering organisations.
+
+---
+
+## 🌍 Languages
+
+- 🇬🇧 **English** — Professional fluency  
+- 🇩🇪 **German** — Professional fluency  
+
+Comfortable working in multilingual, international environments.
 
 ---
 
