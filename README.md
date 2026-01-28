@@ -3,8 +3,6 @@
 I’m a **Cloud Infrastructure Engineer** working within **Data Engineering** at a **London-based bank**.  
 I specialise in building **secure, scalable cloud platforms** and **automated CI/CD pipelines** that enable data teams to deliver reliably in highly regulated environments.
 
-I come from a **Civil Engineering** background, with professional experience in **Information Management** and **Digital Delivery**—a foundation that shaped my systems thinking, documentation standards, and delivery-first mindset.
-
 ---
 
 ## 💼 What I Do
@@ -26,8 +24,8 @@ This has strengthened my experience in **cross-time-zone delivery**, clear techn
 
 ## 🌍 Languages
 
-- 🇬🇧 **English** — Professional fluency  
-- 🇩🇪 **German** — Professional fluency  
+- **English** — Professional fluency  
+- **German** — Professional fluency  
 
 Comfortable working in multilingual, international environments.
 
