@@ -14,9 +14,8 @@ I specialise in building **secure, scalable cloud platforms** and **automated CI
 - Collaborate closely with data engineers, analysts, and stakeholders  
 
 A significant part of my role involves working in **globally distributed teams**, collaborating daily with colleagues based in:
-- 🇬🇧 **London**
-- 🇺🇸 **United States**
-- 🇮🇳 **India**
+-  **London**
+-  **United States**
 
 This has strengthened my experience in **cross-time-zone delivery**, clear technical communication, and operating effectively in large, international engineering organisations.
 
