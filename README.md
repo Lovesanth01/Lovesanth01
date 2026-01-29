@@ -1,7 +1,6 @@
 # Hey There 👋
 
 I’m a **Cloud Infrastructure Engineer** working within **Data Engineering** at a **London-based bank**.  
-I specialise in building **secure, scalable cloud platforms** and **automated CI/CD pipelines** that enable data teams to deliver reliably in highly regulated environments.
 
 ---
 
@@ -9,8 +8,6 @@ I specialise in building **secure, scalable cloud platforms** and **automated CI
 
 - Design and maintain **cloud infrastructure** for enterprise data platforms  
 - Implement **Infrastructure as Code** using Terraform  
-- Build and support **CI/CD pipelines** using Azure DevOps (YAML)  
-- Enable analytics and reporting through **well-governed cloud platforms**  
 - Collaborate closely with data engineers, analysts, and stakeholders  
 
 A significant part of my role involves working in **globally distributed teams**, collaborating daily with colleagues based in:
