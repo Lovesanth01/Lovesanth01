@@ -1,9 +1,3 @@
-# Hey There 👋
-
-I’m a **Cloud Infrastructure Engineer** working within **Data Engineering** at a **London-based bank**.  
-
----
-
 ## 💼 What I Do
 
 - Design and maintain **cloud infrastructure** for enterprise data platforms  
@@ -13,8 +7,6 @@ I’m a **Cloud Infrastructure Engineer** working within **Data Engineering** at
 A significant part of my role involves working in **globally distributed teams**, collaborating daily with colleagues based in:
 -  **London**
 -  **United States**
-
-This has strengthened my experience in **cross-time-zone delivery**, clear technical communication, and operating effectively in large, international engineering organisations.
 
 ---
 
